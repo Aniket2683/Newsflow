@@ -11,7 +11,7 @@ export default function Home() {
         <div className="w-9/12 top-0 self-start">
           <Navbar></Navbar>
           <div className="flex flex-col z-10 items-center justify-between text-sm lg:flex p-6 bg-sky-100 h-screen">
-            Dashboard
+            New Dashboard
           </div>  
         </div>  
       </main>
