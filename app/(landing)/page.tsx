@@ -1,7 +1,7 @@
 const LandingPage = () => {
   return (
     <div>
-        Landing Page1
+        Landing Page1 made change 2nd time
     </div>
   )
 }
