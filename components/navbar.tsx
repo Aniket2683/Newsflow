@@ -9,9 +9,9 @@ const Navbar = () => {
 
     const routes = [
         {
-            href: `/`,
+            href: `/dashboard`,
             label: "Dashboard",
-            active: pathname === `/`
+            active: pathname === `/dashboard`
         },
         {
             href: `/news`,
